@@ -1,0 +1,7 @@
+id = "jetbrains-icons"
+name = "JetBrains Icons"
+version = "0.0.1"
+schema_version = 1
+authors = ["Zeeshan Ahmad <ziishaned@gmail.com>"]
+description = "JetBrains Icons for Zed"
+repository = "https://github.com/ziishaned/zed-jetbrains-icons"
