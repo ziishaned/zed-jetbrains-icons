@@ -2,4 +2,5 @@
 
 Icon theme for [Zed](https://zed.dev/) using JetBrains IntelliJ product icons.
 
-![Image](https://i.imgur.com/Psx665f.png)
+![Light](https://i.imgur.com/Psx665f.png)
+![Dark](https://i.imgur.com/TK6ZT9V.png)
