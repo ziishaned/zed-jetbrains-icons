@@ -60,9 +60,17 @@
         "Makefile": "makefile",
         "mk": "makefile",
         "groovy": "groovy",
-        "prettierrc": "json"
+        "prettierrc": "json",
+        "deno.json": "deno",
+        "angular.json": "angular"
       },
       "file_icons": {
+        "angular": {
+          "path": "./icons/dark/angular.svg"
+        },
+        "deno": {
+          "path": "./icons/dark/deno.svg"
+        },
         "astro": {
           "path": "./icons/dark/astro.svg"
         },
@@ -464,9 +472,17 @@
         "Makefile": "makefile",
         "mk": "makefile",
         "groovy": "groovy",
-        "prettierrc": "json"
+        "prettierrc": "json",
+        "deno.json": "deno",
+        "angular.json": "angular"
       },
       "file_icons": {
+        "angular": {
+          "path": "./icons/light/angular.svg"
+        },
+        "deno": {
+          "path": "./icons/light/deno.svg"
+        },
         "astro": {
           "path": "./icons/light/astro.svg"
         },
