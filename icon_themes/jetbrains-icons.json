@@ -67,9 +67,14 @@
         "hbs": "handlebars",
         "mustache": "handlebars",
         "next.config.js": "nextjs",
-        "nuxt.config.js": "nuxt"
+        "nuxt.config.js": "nuxt",
+        "karma.conf.js": "karma",
+        "karma.conf.ts": "karma"
       },
       "file_icons": {
+        "karma": {
+          "path": "./icons/common/karma.svg"
+        },
         "nuxt": {
           "path": "./icons/common/nuxt.svg"
         },
@@ -493,9 +498,14 @@
         "hbs": "handlebars",
         "mustache": "handlebars",
         "next.config.js": "nextjs",
-        "nuxt.config.js": "nuxt"
+        "nuxt.config.js": "nuxt",
+        "karma.conf.js": "karma",
+        "karma.conf.ts": "karma"
       },
       "file_icons": {
+        "karma": {
+          "path": "./icons/common/karma.svg"
+        },
         "nuxt": {
           "path": "./icons/common/nuxt.svg"
         },
