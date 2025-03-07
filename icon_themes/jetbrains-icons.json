@@ -62,9 +62,15 @@
         "groovy": "groovy",
         "prettierrc": "json",
         "deno.json": "deno",
-        "angular.json": "angular"
+        "angular.json": "angular",
+        "handlebars": "handlebars",
+        "hbs": "handlebars",
+        "mustache": "handlebars"
       },
       "file_icons": {
+        "handlebars": {
+          "path": "./icons/dark/handlebars.svg"
+        },
         "angular": {
           "path": "./icons/dark/angular.svg"
         },
@@ -474,9 +480,15 @@
         "groovy": "groovy",
         "prettierrc": "json",
         "deno.json": "deno",
-        "angular.json": "angular"
+        "angular.json": "angular",
+        "handlebars": "handlebars",
+        "hbs": "handlebars",
+        "mustache": "handlebars"
       },
       "file_icons": {
+        "handlebars": {
+          "path": "./icons/light/handlebars.svg"
+        },
         "angular": {
           "path": "./icons/light/angular.svg"
         },
