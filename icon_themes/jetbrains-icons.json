@@ -65,9 +65,13 @@
         "angular.json": "angular",
         "handlebars": "handlebars",
         "hbs": "handlebars",
-        "mustache": "handlebars"
+        "mustache": "handlebars",
+        "next.config.js": "nextjs"
       },
       "file_icons": {
+        "nextjs": {
+          "path": "./icons/dark/nextjs.svg"
+        },
         "handlebars": {
           "path": "./icons/dark/handlebars.svg"
         },
@@ -483,9 +487,13 @@
         "angular.json": "angular",
         "handlebars": "handlebars",
         "hbs": "handlebars",
-        "mustache": "handlebars"
+        "mustache": "handlebars",
+        "next.config.js": "nextjs"
       },
       "file_icons": {
+        "nextjs": {
+          "path": "./icons/light/nextjs.svg"
+        },
         "handlebars": {
           "path": "./icons/light/handlebars.svg"
         },
