@@ -66,9 +66,13 @@
         "handlebars": "handlebars",
         "hbs": "handlebars",
         "mustache": "handlebars",
-        "next.config.js": "nextjs"
+        "next.config.js": "nextjs",
+        "nuxt.config.js": "nuxt"
       },
       "file_icons": {
+        "nuxt": {
+          "path": "./icons/common/nuxt.svg"
+        },
         "nextjs": {
           "path": "./icons/dark/nextjs.svg"
         },
@@ -235,7 +239,7 @@
           "path": "./icons/dark/text.svg"
         },
         "prisma": {
-          "path": "./icons/dark/text.svg"
+          "path": "./icons/dark/prisma.svg"
         },
         "python": {
           "path": "./icons/dark/python.svg"
@@ -488,9 +492,13 @@
         "handlebars": "handlebars",
         "hbs": "handlebars",
         "mustache": "handlebars",
-        "next.config.js": "nextjs"
+        "next.config.js": "nextjs",
+        "nuxt.config.js": "nuxt"
       },
       "file_icons": {
+        "nuxt": {
+          "path": "./icons/common/nuxt.svg"
+        },
         "nextjs": {
           "path": "./icons/light/nextjs.svg"
         },
@@ -657,7 +665,7 @@
           "path": "./icons/light/text.svg"
         },
         "prisma": {
-          "path": "./icons/light/text.svg"
+          "path": "./icons/light/prisma.svg"
         },
         "python": {
           "path": "./icons/light/python.svg"
