@@ -79,9 +79,13 @@
         "openapi.json": "open_api",
         "openapi.yaml": "open_api",
         "http": "api",
-        "phpunit.xml": "php_unit"
+        "phpunit.xml": "php_unit",
+        "env": "env"
       },
       "file_icons": {
+        "env": {
+          "path": "./icons/common/env.svg"
+        },
         "php_unit": {
           "path": "./icons/dark/php_unit.svg"
         },
@@ -535,9 +539,13 @@
         "openapi.json": "open_api",
         "openapi.yaml": "open_api",
         "http": "api",
-        "phpunit.xml": "php_unit"
+        "phpunit.xml": "php_unit",
+        "env": "env"
       },
       "file_icons": {
+        "env": {
+          "path": "./icons/common/env.svg"
+        },
         "php_unit": {
           "path": "./icons/light/php_unit.svg"
         },
