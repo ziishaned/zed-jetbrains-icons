@@ -69,9 +69,34 @@
         "next.config.js": "nextjs",
         "nuxt.config.js": "nuxt",
         "karma.conf.js": "karma",
-        "karma.conf.ts": "karma"
+        "karma.conf.ts": "karma",
+        "jest.config.js": "jest",
+        "jest.config.ts": "jest",
+        "jest.config.mjs": "jest",
+        "jest.config.cjs": "jest",
+        "jest.config.json": "jest",
+        "class": "java_class",
+        "openapi.json": "open_api",
+        "openapi.yaml": "open_api",
+        "http": "api",
+        "phpunit.xml": "php_unit"
       },
       "file_icons": {
+        "php_unit": {
+          "path": "./icons/dark/php_unit.svg"
+        },
+        "api": {
+          "path": "./icons/dark/api.svg"
+        },
+        "open_api": {
+          "path": "./icons/dark/open_api.svg"
+        },
+        "java_class": {
+          "path": "./icons/dark/java_class.svg"
+        },
+        "jest": {
+          "path": "./icons/common/jest.svg"
+        },
         "karma": {
           "path": "./icons/common/karma.svg"
         },
@@ -500,9 +525,34 @@
         "next.config.js": "nextjs",
         "nuxt.config.js": "nuxt",
         "karma.conf.js": "karma",
-        "karma.conf.ts": "karma"
+        "karma.conf.ts": "karma",
+        "jest.config.js": "jest",
+        "jest.config.ts": "jest",
+        "jest.config.mjs": "jest",
+        "jest.config.cjs": "jest",
+        "jest.config.json": "jest",
+        "class": "java_class",
+        "openapi.json": "open_api",
+        "openapi.yaml": "open_api",
+        "http": "api",
+        "phpunit.xml": "php_unit"
       },
       "file_icons": {
+        "php_unit": {
+          "path": "./icons/light/php_unit.svg"
+        },
+        "api": {
+          "path": "./icons/light/api.svg"
+        },
+        "open_api": {
+          "path": "./icons/light/open_api.svg"
+        },
+        "java_class": {
+          "path": "./icons/light/java_class.svg"
+        },
+        "jest": {
+          "path": "./icons/common/jest.svg"
+        },
         "karma": {
           "path": "./icons/common/karma.svg"
         },
