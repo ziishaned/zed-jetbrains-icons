@@ -81,8 +81,7 @@
         "http": "api",
         "phpunit.xml": "php_unit",
         "env": "env",
-        "vuka": "vuka",
-        "vuka.html": "vuka"
+        "vuka": "vuka"
       },
       "file_icons": {
         "vuka": {
@@ -546,8 +545,7 @@
         "http": "api",
         "phpunit.xml": "php_unit",
         "env": "env",
-        "vuka": "vuka",
-        "vuka.html": "vuka"
+        "vuka": "vuka"
       },
       "file_icons": {
         "vuka": {
