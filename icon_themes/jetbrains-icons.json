@@ -80,9 +80,13 @@
         "openapi.yaml": "open_api",
         "http": "api",
         "phpunit.xml": "php_unit",
-        "env": "env"
+        "env": "env",
+        "vuka": "vuka"
       },
       "file_icons": {
+        "vuka": {
+          "path": "./icons/dark/vuka.svg"
+        },
         "env": {
           "path": "./icons/common/env.svg"
         },
@@ -540,9 +544,13 @@
         "openapi.yaml": "open_api",
         "http": "api",
         "phpunit.xml": "php_unit",
-        "env": "env"
+        "env": "env",
+        "vuka": "vuka"
       },
       "file_icons": {
+        "vuka": {
+          "path": "./icons/light/vuka.svg"
+        },
         "env": {
           "path": "./icons/common/env.svg"
         },
